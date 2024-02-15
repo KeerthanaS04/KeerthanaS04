@@ -1,5 +1,5 @@
 <p align="center">
-  ![Hey Everyone!](https://capsule-render.vercel.app/api?text=Hey_Everyone&animation=fadeIn)
+  ![Hey Everyone!](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 </p>
 
 <div id="badges">
