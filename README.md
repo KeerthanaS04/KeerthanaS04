@@ -41,6 +41,7 @@ technical_background:
 currently_learning: ["Generative AI", "LLM", "NLP"]
 2024 Goals: ["Create 25+ projects and learn new technologies."]
 hobbies: ["Movies", "Series", "Cricket", "Cycling"]
+```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -58,6 +59,6 @@ hobbies: ["Movies", "Series", "Cricket", "Cycling"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="sql" width="45" height="45"/>
 </p>
-```
+
 
 ![Snake animation](https://github.com/KeerthanaS04/KeerthanaS04/blob/output/github-contribution-grid-snake.svg)
