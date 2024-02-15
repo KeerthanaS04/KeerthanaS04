@@ -3,11 +3,23 @@
     🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<a href="https://www.instagram.com/keerthanasubramanian2004/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-  <img height="50" src="![9042745_linkedin_icon](https://github.com/KeerthanaS04/KeerthanaS04/assets/95169415/ae424a91-e437-4d3d-a111-1c5dc3b7c4b1)
-(https://www.linkedin.com/in/keerthana-subramanian-1061b1228/)"/>
-</a>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/keerthana-subramanian-1061b1228/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/keerthanasubramanian2004/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KeerthanaS04">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="keerthanasmallika@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/keerthanas57">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+  </a>
+</div>
 
 ```yaml
 name: Keerthana S
