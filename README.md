@@ -5,7 +5,8 @@
 
 <a href="https://www.instagram.com/keerthanasubramanian2004/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-  <img height="50" src="[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthana-subramanian-1061b1228/)"/>
+  <img height="50" src="![9042745_linkedin_icon](https://github.com/KeerthanaS04/KeerthanaS04/assets/95169415/ae424a91-e437-4d3d-a111-1c5dc3b7c4b1)
+(https://www.linkedin.com/in/keerthana-subramanian-1061b1228/)"/>
 </a>
 
 ```yaml
