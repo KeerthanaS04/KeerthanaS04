@@ -40,8 +40,10 @@ technical_background:
   "Data Scientist",
   "Data Engineer",
   "ML Engineer",
-  "Intern@ Indian Institute of Space-Science and Technology(Trivandrum) - Deep Learning Research",
-  "Intern@ Indian Institute of Science(Bangalore) - Deep Learning Research",
+  "Intern@ UiT The Arctic University of Norway - Research Internship -> Apr.2024 - Present",
+  "Intern@ Indian Institute of Science(Bangalore) - Research Internship -> Dec.2023 - Present",
+  "Intern@ Harvard University - Research Internship -> May.2024 - Jul.2024",
+  "Intern@ Indian Institute of Space-Science and Technology(Trivandrum) - Research Internship -> May.2023 - Jul.2023",
 ]
 
 currently_learning: ["Generative AI", "LLM", "NLP"]
