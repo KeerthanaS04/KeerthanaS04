@@ -15,6 +15,9 @@
   <a href="https://www.kaggle.com/keerthanas57">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/keerthanasmallika/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor="/>
+  </a>
 </div>
 
 ```yaml
