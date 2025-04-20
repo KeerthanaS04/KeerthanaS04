@@ -51,7 +51,7 @@ technical_background:
 ]
 
 currently_learning: ["Generative AI", "LLM", "NLP"]
-2024 Goals: ["Create 25+ projects and learn new technologies."]
+2025 Goals: ["Create 25+ projects and learn new technologies."]
 hobbies: ["Movies", "Series", "Cricket", "Cycling"]
 ```
 
