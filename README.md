@@ -43,7 +43,7 @@ field of Interests:
 ]
 technical_background:
 [
-  "AI Engineer @ CirrusLabs Private Limited",
+  "AI Engineer @ CirrusLabs Private Limited -> Aug.2025 - Present",
   "Intern @ Indian Institute of Science(Bangalore) - Research Internship -> Dec.2023 - Aug.2024",
   "Intern @ Harvard University - Research Internship -> May.2024 - Jul.2024",
   "Intern @ Indian Institute of Space-Science and Technology(Trivandrum) - Research Internship -> May.2023 - Jul.2023",
