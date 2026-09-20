@@ -33,26 +33,24 @@ Institute: Indian Institute of Technology Guwahati
 
 field of Interests:
 [
+  "Agentic AI",
+  "Model Optimization",
+  "RAG",
   "Data Science",
   "Machine Learning",
   "Deep Learning",
-  "Product Development",
-  "Web Development",
+  "Product Development"
 ]
 technical_background:
 [
-  "Data Scientist",
-  "Data Engineer",
-  "ML Engineer",
-  "Intern@ UiT The Arctic University of Norway - Research Internship -> Apr.2024 - Present",
-  "Intern@ Indian Institute of Science(Bangalore) - Research Internship -> Dec.2023 - Aug.2024",
-  "Intern@ Harvard University - Research Internship -> May.2024 - Jul.2024",
-  "Intern@ Indian Institute of Space-Science and Technology(Trivandrum) - Research Internship -> May.2023 - Jul.2023",
+  "AI Engineer @ CirrusLabs Private Limited",
+  "Intern @ Indian Institute of Science(Bangalore) - Research Internship -> Dec.2023 - Aug.2024",
+  "Intern @ Harvard University - Research Internship -> May.2024 - Jul.2024",
+  "Intern @ Indian Institute of Space-Science and Technology(Trivandrum) - Research Internship -> May.2023 - Jul.2023",
 ]
 
-currently_learning: ["Generative AI", "LLM", "NLP"]
-2025 Goals: ["Create 25+ projects and learn new technologies."]
-hobbies: ["Movies", "Series", "Cricket", "Cycling"]
+currently exploring: ["Generative AI", "LLM", "NLP", Agentic, Modelling]
+hobbies: ["Movies", "Series", "Reading", "Cricket", "Cycling"]
 ```
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
